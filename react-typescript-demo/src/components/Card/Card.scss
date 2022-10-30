@@ -1,0 +1,27 @@
+.card-container {
+  .card-image-div {
+    img {
+      width: 12.8125rem;
+      height: 12.8125rem;
+    }
+  }
+
+  .card-content {
+    .card-title {
+      color: #000;
+      font-size: 16px;
+      font-weight: 500;
+    }
+
+    .card-type {
+      color: rgb(156, 154, 154);
+      font-size: 16px;
+      font-weight: 400;
+    }
+
+    .card-price {
+      color: #000;
+      font-size: 16px;
+    }
+  }
+}
